@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=POWER Old Footprint=HDR1X2 New Footprint=HDR1X2H
+Change Component Designator: OldDesignator=POWER NewDesignator=P1
+Added Pin To Net: NetName=PA5 Pin=P3-3
+Added Room: Name=_Geeky_ Sheet1 copy_2023-02-18

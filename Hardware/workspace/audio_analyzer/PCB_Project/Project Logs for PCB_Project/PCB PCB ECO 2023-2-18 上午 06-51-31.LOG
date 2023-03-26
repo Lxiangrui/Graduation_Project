@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D1 Old Footprint=led New Footprint=led_2
+Change Component Footprint: Designator=LED3 Old Footprint=led New Footprint=led_2
+Change Component Footprint: Designator=PWR1 Old Footprint=led New Footprint=led_2

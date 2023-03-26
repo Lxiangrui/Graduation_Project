@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=LCD
+Change Component Designator: OldDesignator= NewDesignator=M1
+Added Member To Class: ClassName=Sheet1 Member=Component LCD Header 8
+Added Room: Name=Sheet1

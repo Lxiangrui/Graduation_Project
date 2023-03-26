@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V Pin=POWER-2
+Change Component Designator: OldDesignator=CLK DIO GND 3.3V  NewDesignator=P2
+Added Pin To Net: NetName=NetPOWER_2 Pin=POWER-2
+Added Net: Name=NetPOWER_2

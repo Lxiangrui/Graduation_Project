@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=H1 Old Footprint=MHDR1X3 New Footprint=HDR1X3
+Change Component Designator: OldDesignator=1 NewDesignator=
+Change Component Designator: OldDesignator=H1 NewDesignator=V     G      I
+Change Component Designator: OldDesignator=P3 NewDesignator=LCD

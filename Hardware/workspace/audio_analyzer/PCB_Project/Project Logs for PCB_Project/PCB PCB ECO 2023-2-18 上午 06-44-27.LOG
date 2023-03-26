@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=+5V Pin=POWER-2
+Change Component Designator: OldDesignator=CLK DIO GND 3.3V  NewDesignator=P2
+Added Component: Designator=SW_power(sw22)
+Add component (AddParameter): Name = "Actuator Color"; Value = "ºÚÉ«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "¾ØÐÎÖù×´"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "µ¥µ¶Ë«ÖÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (DC)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200902/C778186_2AF08473ED98414D93A175E8814EEFA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MK-12C02-G025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Æß½ÅÐ¡²¦¶¯¿ª¹Ø2.5±ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "G-Switch(Æ·ÔÞ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MK-12C02-G025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ÎÔÌù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MK-12C02-G025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20¡æ~+70¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Style"; Value = "SMD½ÓÆ¬"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C778186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "5.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "6.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MK-12C02-G025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=SW_power-3
+Added Pin To Net: NetName=NetPOWER_2 Pin=POWER-2
+Added Pin To Net: NetName=NetPOWER_2 Pin=SW_power-2
+Added Net: Name=NetPOWER_2
+Added Member To Class: ClassName=_Geeky_ Sheet1 copy_2023-02-18 Member=Component P2 Header 4
+Added Member To Class: ClassName=_Geeky_ Sheet1 copy_2023-02-18 Member=Component SW_power MK-12C02-G025

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=PWR1-2
+Removed Pin From Net: NetName=+5V Pin=R12-1
+Removed Member From Class: ClassName=_Geeky_ Sheet1 copy_2023-02-18 Member=PWR1
+Removed Member From Class: ClassName=_Geeky_ Sheet1 copy_2023-02-18 Member=R12
