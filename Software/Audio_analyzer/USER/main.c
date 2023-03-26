@@ -3,7 +3,7 @@ char dis_buff[100];
 int data[160],data_1[160];
 int max  =  0,max_old  =0;
 
-//宏定义
+//宏定义--------------
 #define PI2  6.28318530717959  //
 #define NPT 1024            /* NPT = No of FFT point FFT的采样点数*/
 

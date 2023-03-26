@@ -643,11 +643,11 @@ xb4be,0x0c7c
   303 000002CE         
   304 000002CE                 END
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
-ork --depend=..\obj\cr4_fft_64_stm32.d -o..\obj\cr4_fft_64_stm32.o -IC:\Users\l
-i007\Desktop\±ÏÒµÉè¼Æ\Èí¼þ³ÌÐò\vet6\0221\USER\RTE -ID:\keil5\ARM\PACK\Keil\STM3
-2F1xx_DFP\2.4.0\Device\Include -ID:\keil5\ARM\CMSIS\Include --predefine="__UVIS
-ION_VERSION SETA 518" --predefine="STM32F10X_HD SETA 1" --list=.\cr4_fft_64_stm
-32.lst ..\STM32F10x_FWLib\DSPsrc\cr4_fft_64_stm32.s
+ork --depend=..\obj\cr4_fft_64_stm32.d -o..\obj\cr4_fft_64_stm32.o -I"H:\Myself
+_Project\Graduation _Project\Software\Audio_analyzer\USER\RTE" -ID:\keil5\ARM\P
+ACK\Keil\STM32F1xx_DFP\2.4.0\Device\Include -ID:\keil5\ARM\CMSIS\Include --pred
+efine="__UVISION_VERSION SETA 518" --predefine="STM32F10X_HD SETA 1" --list=.\c
+r4_fft_64_stm32.lst ..\STM32F10x_FWLib\DSPsrc\cr4_fft_64_stm32.s
 
 
 
@@ -723,13 +723,13 @@ Symbol: NPT
    Definitions
       At line 46 in file ..\STM32F10x_FWLib\DSPsrc\cr4_fft_64_stm32.s
    Uses
-      At line 135 in macro XäOPT
+      At line 135 in macro €ÙZOPT
       at line 223 in file ..\STM32F10x_FWLib\DSPsrc\cr4_fft_64_stm32.s
-      At line 137 in macro XäOPT
+      At line 137 in macro €ÙZOPT
       at line 223 in file ..\STM32F10x_FWLib\DSPsrc\cr4_fft_64_stm32.s
-      At line 139 in macro XäOPT
+      At line 139 in macro €ÙZOPT
       at line 223 in file ..\STM32F10x_FWLib\DSPsrc\cr4_fft_64_stm32.s
-      At line 141 in macro XäOPT
+      At line 141 in macro €ÙZOPT
       at line 223 in file ..\STM32F10x_FWLib\DSPsrc\cr4_fft_64_stm32.s
 
 1 symbol

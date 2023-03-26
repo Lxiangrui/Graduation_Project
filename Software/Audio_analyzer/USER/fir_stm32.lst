@@ -223,11 +223,11 @@ ARM Macro Assembler    Page 4
   125 0000009E E8BD 8FF0       LDMIA            sp!, {r4-r11, pc}
   126 000000A2                 END
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
-ork --depend=..\obj\fir_stm32.d -o..\obj\fir_stm32.o -IC:\Users\li007\Desktop\±
-œ“µ…Ëº∆\»Ìº˛≥Ã–Ú\vet6\0221\USER\RTE -ID:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.
-0\Device\Include -ID:\keil5\ARM\CMSIS\Include --predefine="__UVISION_VERSION SE
-TA 518" --predefine="STM32F10X_HD SETA 1" --list=.\fir_stm32.lst ..\STM32F10x_F
-WLib\DSPsrc\fir_stm32.s
+ork --depend=..\obj\fir_stm32.d -o..\obj\fir_stm32.o -I"H:\Myself_Project\Gradu
+ation _Project\Software\Audio_analyzer\USER\RTE" -ID:\keil5\ARM\PACK\Keil\STM32
+F1xx_DFP\2.4.0\Device\Include -ID:\keil5\ARM\CMSIS\Include --predefine="__UVISI
+ON_VERSION SETA 518" --predefine="STM32F10X_HD SETA 1" --list=.\fir_stm32.lst .
+.\STM32F10x_FWLib\DSPsrc\fir_stm32.s
 
 
 
